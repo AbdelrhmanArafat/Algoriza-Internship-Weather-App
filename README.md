@@ -2,11 +2,9 @@
 
 A new Flutter project.
 
-A screen Record
+A screen Record video for Project.
 
 https://user-images.githubusercontent.com/74889620/189471016-7262e65a-4f8a-4dd8-8b96-30fb29912fe2.mp4
-
- video for Project
 
 ## Getting Started
 
